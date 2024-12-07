@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+	    Width="289" Height="336"
+		CanResize="False"
+		ExtendClientAreaToDecorationsHint="True"
+        x:Class="AurvangardLauncher.NewsDetails"
+        Title="AurvangardLauncher">
+
+	<DockPanel LastChildFill="True">
+		<Image Source="avares://AurvangardLauncher/Resources/news.png" Stretch="UniformToFill" />
+		<Button Name="Download" Click="Button_Click" HorizontalAlignment="Center" DockPanel.Dock="Bottom" Width="150">
+			<TextBlock Text="Download" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+		</Button>
+		<StackPanel Margin="0, 0, 0, 40">
+			<Image Name="Icon" Stretch="UniformToFill" Width="100" Margin="35"/>
+			<TextBlock Name="Name" FontSize="18" HorizontalAlignment="Center" Margin="5"/>
+			<TextBlock Name="Description" TextWrapping="Wrap" HorizontalAlignment="Center" Margin="10"/>
+		</StackPanel>
+	</DockPanel>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\publish\AurvangardLauncher.pdb
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\publish\av_libglesv2.dll
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\publish\libHarfBuzzSharp.dll
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\publish\libSkiaSharp.dll
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\publish\AurvangardLauncher.exe

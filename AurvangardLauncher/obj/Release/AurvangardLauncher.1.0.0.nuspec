@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AurvangardLauncher</id>
+    <version>1.0.0</version>
+    <authors>AurvangardLauncher</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows10.0.26100">
+        <dependency id="Avalonia" version="11.2.1" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Desktop" version="11.2.1" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Fonts.Inter" version="11.2.1" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Themes.Fluent" version="11.2.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Toolkit.Uwp.Notifications" version="7.1.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\net8.0-windows10.0.26100.0\AurvangardLauncher.runtimeconfig.json" target="lib\net8.0-windows10.0.26100\AurvangardLauncher.runtimeconfig.json" />
+    <file src="C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\bin\Release\net8.0-windows10.0.26100.0\AurvangardLauncher.dll" target="lib\net8.0-windows10.0.26100\AurvangardLauncher.dll" />
+  </files>
+</package>

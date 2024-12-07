@@ -1,0 +1,7 @@
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\AurvangardLauncher.csproj.AssemblyReference.cache
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\Avalonia\resources
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\AurvangardLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\AurvangardLauncher.AssemblyInfoInputs.cache
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\AurvangardLauncher.AssemblyInfo.cs
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Debug\net8.0\AurvangardLauncher.csproj.CoreCompileInputs.cache
