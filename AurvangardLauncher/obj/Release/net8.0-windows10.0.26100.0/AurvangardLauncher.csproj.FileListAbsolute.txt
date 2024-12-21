@@ -38,3 +38,4 @@ C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Releas
 C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Release\net8.0-windows10.0.26100.0\ref\AurvangardLauncher.dll
 C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Release\net8.0-windows10.0.26100.0\AurvangardLauncher.csproj.Fody.CopyLocal.cache
 C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Release\net8.0-windows10.0.26100.0\AurvangardLauncher.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\VFlov\Documents\GitHub\AurvangardLauncher\AurvangardLauncher\obj\Release\net8.0-windows10.0.26100.0\AurvangardLauncher.sourcelink.json

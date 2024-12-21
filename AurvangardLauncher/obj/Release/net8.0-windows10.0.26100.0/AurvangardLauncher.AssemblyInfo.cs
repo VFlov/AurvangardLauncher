@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AurvangardLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1b738862f33a7d02b149e116742d1f897fc047")]
 [assembly: System.Reflection.AssemblyProductAttribute("AurvangardLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AurvangardLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

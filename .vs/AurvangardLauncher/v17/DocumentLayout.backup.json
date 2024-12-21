@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\resources\\panel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\resources\\panel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\resources\\settings.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\resources\\settings.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\gamepath.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\gamepath.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\gamepath.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\gamepath.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\aurvangardlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\aurvangardlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\aurvangardlauncher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\aurvangardlauncher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\resources\\news.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -19,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\resources\\newsicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\aurvangardlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\aurvangardlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\resources\\panel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\resources\\panel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\gamepath.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\gamepath.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\aurvangardlauncher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\aurvangardlauncher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\gamepath.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\gamepath.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|c:\\users\\vflov\\documents\\github\\aurvangardlauncher\\aurvangardlauncher\\resources\\settings.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B12BCB30-41F9-4930-9772-404D3DBE60F2}|AurvangardLauncher\\AurvangardLauncher.csproj|solutionrelative:aurvangardlauncher\\resources\\settings.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,23 +58,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AurvangardLauncher.csproj",
-              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\AurvangardLauncher.csproj",
-              "RelativeDocumentMoniker": "AurvangardLauncher\\AurvangardLauncher.csproj",
-              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\AurvangardLauncher.csproj",
-              "RelativeToolTip": "AurvangardLauncher\\AurvangardLauncher.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAArwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-03T08:47:43.729Z"
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "AurvangardLauncher\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml",
+              "RelativeToolTip": "AurvangardLauncher\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T13:30:39.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AurvangardLauncher\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml.cs",
+              "RelativeToolTip": "AurvangardLauncher\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:16:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "AurvangardLauncher\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\MainWindow.axaml",
+              "RelativeToolTip": "AurvangardLauncher\\MainWindow.axaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T13:16:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "news.png - PNG [289x336, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Resources\\news.png",
               "RelativeDocumentMoniker": "AurvangardLauncher\\Resources\\news.png",
@@ -74,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "newsIcon.png - PNG [380x320, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Resources\\newsIcon.png",
               "RelativeDocumentMoniker": "AurvangardLauncher\\Resources\\newsIcon.png",
@@ -86,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "panel.png - PNG [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Resources\\panel.png",
               "RelativeDocumentMoniker": "AurvangardLauncher\\Resources\\panel.png",
@@ -98,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "settings.png - PNG [360x360, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Resources\\settings.png",
               "RelativeDocumentMoniker": "AurvangardLauncher\\Resources\\settings.png",
@@ -110,24 +148,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GamePath.axaml",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\GamePath.axaml",
               "RelativeDocumentMoniker": "AurvangardLauncher\\GamePath.axaml",
               "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\GamePath.axaml",
               "RelativeToolTip": "AurvangardLauncher\\GamePath.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T17:10:16.385Z"
+              "WhenOpened": "2024-12-03T17:10:16.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Additions.cs",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Additions.cs",
               "RelativeDocumentMoniker": "AurvangardLauncher\\Additions.cs",
               "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\Additions.cs",
               "RelativeToolTip": "AurvangardLauncher\\Additions.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T08:17:37.384Z"
             },
@@ -140,19 +179,33 @@
               "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\AurvangardLauncher.csproj",
               "RelativeToolTip": "AurvangardLauncher\\AurvangardLauncher.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-03T16:53:07.477Z"
+              "WhenOpened": "2024-12-03T16:53:07.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "GamePath.axaml.cs",
               "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\GamePath.axaml.cs",
               "RelativeDocumentMoniker": "AurvangardLauncher\\GamePath.axaml.cs",
               "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\GamePath.axaml.cs",
               "RelativeToolTip": "AurvangardLauncher\\GamePath.axaml.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAApwKMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAASwIwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T10:59:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AurvangardLauncher.csproj",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\AurvangardLauncher.csproj",
+              "RelativeDocumentMoniker": "AurvangardLauncher\\AurvangardLauncher.csproj",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\AurvangardLauncher\\AurvangardLauncher\\AurvangardLauncher.csproj",
+              "RelativeToolTip": "AurvangardLauncher\\AurvangardLauncher.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T08:47:43.729Z",
+              "EditorCaption": ""
             }
           ]
         }
